@@ -1,77 +1,84 @@
-<img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 30px"/>
- 
-<h3>👋 Hi, I'm Yogeshwar Wasu</h3>
-<p> A Mean-stack developer </p>
-<p align="left"> How to reach me: <a href="mailto:wasuyogesh45@gmail.com"><strong>wasuyogesh45@gmail.com</strong></a></p>
-<p align="left"> How to reach me: <a href="https://yogesh-wasu.onrender.com/"> Visit my portfolio </a></p>
-<p align="left"> Buy Me Coffee <strong>https://ko-fi.com/yogeshwasu</strong></p>
-<br>
+<h1 align="center">👋 Hi, I'm Yogeshwar Wasu</h1>
+<h3 align="center">💻 MEAN / Full Stack Developer | Software Engineer | Performance Optimizer</h3>
 
-## 🚀 What I Bring to Your Project
 
-- 4+ years of proven experience building scalable applications
-- Expert in modern front-end frameworks (Angular.js)  
-- Full-stack capabilities with Node.js and Express.js
-- Strong focus on clean code & best practices
-<br>
-<br>
-<br>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 🌟 Tech Stack
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yogeshwar-wasu&label=Profile%20views&color=0e75b6&style=flat" alt="Yogeshwar-wasu" /> </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> HTML &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> CSS &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript &nbsp;&nbsp;
+💬 **Ask me about:** MEAN Stack Development  
+
+📫 **How to reach me:** [wasuyogesh45@gmail.com](mailto:wasuyogesh45@gmail.com)  
+
+📄 **Know about my experiences:** [Resume / CV](https://drive.google.com/file/d/15EshF-VZ6252z38RyLxTu7NP3huz4obX/view?usp=drive_link)  
+
+⚡ **Fun fact:** I write bug-free code… most of the time 😎
+
+  ---
+
+### 👋 About Me
+I'm a **Full Stack / MEAN Developer** with **5+ years of experience** building **secure, high-performance web applications** for **banking and healthcare platforms**.  
+I specialize in **Angular + Node.js + MariaDB/MySQL**, focusing on clean architecture, reusable components & optimized APIs.
+
+---
+
+### 🚀 What I Work On
+- 🔐 Secure authentication & authorization
+- ⚙ RESTful API development (Node.js + Express)
+- ⚡ Performance-driven Angular frontends
+- 🗄 Database optimization (MariaDB/MySQL)
+- 🛠 Enterprise workflows & deployments
+
+---
+
+### ⭐ Featured Projects
+
+| **Project Name** | **Description** | **Technologies** |
+|------------------|------------------|------------------|
+| **PDF Utility Tool** | • Automated PDF generation from system data with dynamic letter templates.<br>• Implemented encryption + password-protected ZIP exports for secure file sharing.<br>• Reduced manual PDF processing effort by **60%** across operations. | Node.js (v14), FS, Crypto, PDFKit |
+| **Onboarding Application** | • Integrated OCR for PAN & Aadhaar to automate KYC and reduce manual workload by **70%**.<br>• Developed real-time REST APIs with validation and secure authentication.<br>• Independently handled deployment and version control with Git. | Angular 14, Node.js 20, Express.js, MariaDB, OCR |
+| **DBS Bank Project** | • Developed and maintained enterprise modules such as Email, MIS, LCC & Cash-Ops.<br>• Designed secure REST APIs ensuring reliable multi-module integrations.<br>• Contributed to multiple Agile deployment cycles with successful production releases. | Angular 6–14, Node.js, Express.js, MariaDB |
+| **Healthy Homes Quest** | • Built scalable Angular UI with responsive workflows and optimized DB logic.<br>• Ensured seamless application deployment and smooth multi-user experience. | Angular 14, MySQL, SSRS |
+| **TalentCare Web App** | • Developed candidate management platform with CRUD operations.<br>• Designed full-stack workflows and UI components. | Angular, Node.js, Express.js, MySQL |
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,bootstrap,tailwind,jquery,nodejs,express,mysql,c,cpp,git,bitbucket,azure,postman,vscode,visualstudio,figma,github,linux" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> Sass &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind" width="40" height="40"/> Tailwind CSS  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
-</p>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> Angular &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> Node.js &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background-color:white; padding:2px;"/> Express.js
-</p>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> MySQL &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/> MariaDB &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> React.js
-</p>
 
-<br>
-<br>
-<br>
+---
 
-## 🤝 Connect With Me  
+### 🏆 Awards & Achievements
 
-<p>
-  <a href="https://www.linkedin.com/in/yogeshwar-wasu-389172148/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
-    <span style="margin-left: 10px; font-size: 16px; font-weight: bold; color: #0e76a8;">LinkedIn</span>
+- **Super Squad Award Winner** — 2022 & 2023
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yogeshwar-wasu-389172148/" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
-<p>
-  <a href="mailto:wasuyogesh45@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" width="40" />
-    <span style="margin-left: 10px; font-size: 16px; font-weight: bold; color: #D44638;">Gmail</span>
+
+  <!-- Gmail -->
+  <a href="mailto:wasuyogesh45@gmail.com" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" height="30" width="40" />
   </a>
-</p>
-<p>
+
+  <!-- Dev.io / Portfolio -->
   <a href="https://yogesh-wasu.onrender.com/" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" height="40" width="40" />
-    <span style="margin-left: 10px; font-size: 16px; font-weight: bold; color: #0e76a8;">Dev.io</span>
+    <img align="center" src="https://www.svgrepo.com/show/2730/portfolio.svg" alt="Dev.io" height="30" width="40" />
   </a>
-</p>
-<p>
-  <a href="https://medium.com/@wasuyogesh45" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium" height="40" width="40" />
-    <span style="margin-left: 10px; font-size: 16px; font-weight: bold; color: #12100E;">Medium</span>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@wasuyogesh45" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="Medium" height="30" width="40" />
   </a>
+
 </p>
 <br>
 <br>
