@@ -35,6 +35,7 @@ I specialize in **Angular + Node.js + MariaDB/MySQL**, focusing on clean archite
 
 | **Project Name** | **Description** | **Technologies** |
 |------------------|------------------|------------------|
+| **YogiAI** | A desktop reminder app built with Angular and Electron, featuring interactive buddy animations and daily task management. | Angular , electron, JavaScript |
 | **PDF Utility Tool** | • Automated PDF generation from system data with dynamic letter templates.<br>• Implemented encryption + password-protected ZIP exports for secure file sharing.<br>• Reduced manual PDF processing effort by **60%** across operations. | Node.js (v14), FS, Crypto, PDFKit |
 | **Onboarding Application** | • Integrated OCR for PAN & Aadhaar to automate KYC and reduce manual workload by **70%**.<br>• Developed real-time REST APIs with validation and secure authentication.<br>• Independently handled deployment and version control with Git. | Angular 14, Node.js 20, Express.js, MariaDB, OCR |
 | **DBS Bank Project** | • Developed and maintained enterprise modules such as Email, MIS, LCC & Cash-Ops.<br>• Designed secure REST APIs ensuring reliable multi-module integrations.<br>• Contributed to multiple Agile deployment cycles with successful production releases. | Angular 6–14, Node.js, Express.js, MariaDB |
